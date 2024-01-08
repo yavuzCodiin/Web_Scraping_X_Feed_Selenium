@@ -204,7 +204,7 @@ browser.close()
 
 If you want to understand this in a more simpler language you can check my Medium writing published on `Level Up Coding`
 
-LINK => 
+LINK => https://levelup.gitconnected.com/web-scraping-series-part-ii-x-feed-selenium-c10ceb4b1a12
 
 
 
